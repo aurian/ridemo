@@ -1,4 +1,4 @@
-1320089668
+1320140859
 Application	C:/Sites/ridemo/config/application.rb	  class Application 
 ApplicationController	C:/Sites/ridemo/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
